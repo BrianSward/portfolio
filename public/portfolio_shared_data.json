@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Brian Sward",
-      "titles": [ "Software Developer" ],
+      "titles": [ "New Product Development | Data Analyst | Lean Six Sigma" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/BrianSward",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/brian-sward/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "me100x100.png"
