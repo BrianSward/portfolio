@@ -59,37 +59,34 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Sage Door Holdings",
+        "title": "Data Analyst | New Products Director",
+        "years": "01.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Excel", "Google Sheets"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+          "Cost Projections",
+          "Data Analysis",
+          "Lean Methodolgies",
+          "Project Management",
+          "ERP Implimentation",
+          "Monte Carlo Scenarios",
+          "Linear Regression"
+          ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Circanna",
+        "title": "General Manager",
+        "years": "10.2015 - 01.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Excel"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Project Management",
+          "Operations",
+          "Regulatory Adherance",
+          "Team Management"
         ]
       }
     ]
