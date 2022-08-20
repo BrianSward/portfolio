@@ -15,7 +15,7 @@
         "startDate": "July 2022",
         "description": "Created a website which will record vote recieved for given products and sum the results over consecutive polls. Built with javascript on a backbone of html and styled with CSS using chart.js to render information to the user.",
         "images": [
-          "images/portfolio/odd-duck/Screenshot 2022-08-13 141309"
+          "images/portfolio/odd-duck/Screenshot 2022-08-13 141309.png"
         ],
         "url": "https://briansward.github.io/odd-duck/",
         "technologies": [
